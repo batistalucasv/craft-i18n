@@ -92,6 +92,7 @@
 	Address\nBlock	Bloco de\nendereço
 	Advanced Find	Localização avançada
 	Advanced Find…	Localização avançada…
+	Advanced Properties…	Propriedades avançadas…
 	After:	Depois:
 	Agents	Agentes
 	Agents connected to WordCraft can show you messages through the Assistant. Muted, they're told you'd rather not.	Agentes conectados ao WordCraft podem mostrar mensagens para você pelo assistente. Quando silenciados, eles são avisados de que você prefere não recebê-las.
@@ -392,6 +393,7 @@
 	Contents can't be edited	O conteúdo não pode ser editado
 	Context	Contexto
 	Continue from previous section	Continuar da seção anterior
+	Continue without restoring	Continuar sem restaurar
 	Continuous	Contínua
 	Continuous numbering	Numeração contínua
 	Controls	Controles
@@ -412,6 +414,7 @@
 	Couldn't download {name}: {error}	Não foi possível baixar {name}: {error}
 	Couldn't make WordCraft the default: {error}	Não foi possível tornar o WordCraft o aplicativo padrão: {error}
 	Couldn't open {path}: {error}	Não foi possível abrir {path}: {error}
+	Couldn't save {name}, so it is still open and nothing was lost: {error}	Não foi possível salvar {name}, portanto ele continua aberto e nada foi perdido: {error}
 	Count by:	Intervalo:
 	Count words in text boxes and notes	Contar palavras em caixas de texto e notas
 	Courtesy Title	Pronome de tratamento
@@ -429,21 +432,36 @@
 	Dark Blue	Azul-escuro
 	Dark Red	Vermelho-escuro
 	Dark Yellow	Amarelo-escuro
+	Discard the recovery copy of {name}?	Descartar a cópia de recuperação de {name}?
+	Discard…	Descartar…
 	East	Leste
 	Emphasis	Ênfase
 	Gray-25%	Cinza-25%
 	Gray-50%	Cinza-50%
 	Insert reference to:	Inserir referência a:
 	Intense Emphasis	Ênfase intensa
+	Local recovery is unavailable or still loading.	A recuperação local está indisponível ou ainda carregando.
+	No recovery copies.	Nenhuma cópia de recuperação.
 	No Spacing	Sem espaçamento
 	Nothing of this type in the document.	Nenhum item deste tipo no documento.
+	Only text properties can be changed.	Apenas propriedades de texto podem ser alteradas.
+	Property names are 1–{max} characters.	Nomes de propriedade têm de 1 a {max} caracteres.
+	Property values are at most {max} bytes.	Valores de propriedade têm no máximo {max} bytes.
+	Recovery copy	Cópia de recuperação
+	Recovery is disabled while this document has a password.	A recuperação fica desativada enquanto este documento tiver uma senha.
+	Restore opens an unsaved copy. Your original file stays unchanged.	A restauração abre uma cópia não salva. Seu arquivo original permanece inalterado.
+	Select a property to change.	Selecione uma propriedade para alterar.
 	Strong	Forte
 	Subtle Emphasis	Ênfase sutil
 	Subtle Reference	Referência sutil
 	Teal	Verde-azulado
+	Text properties only: Word's number, date and yes-no types aren't offered.	Somente propriedades de texto: os tipos Número, Data e Sim ou Não, não estão disponíveis.
+	This cannot be undone. Your original file stays unchanged.	Isso não pode ser desfeito. Seu arquivo original permanece inalterado.
+	This document has no custom properties.	Este documento não possui propriedades personalizadas.
 	TOC {n}	Sumário {n}
 	tOGGLE cASE	aLTERNAR mAIÚSCULAS/mINÚSCULAS
 	Turquoise	Turquesa
+	View and edit the document's custom properties.	Exibir e editar as propriedades personalizadas do documento.
 	{key} starts a new page. Much tidier than pressing Enter until it happens.	{key} inicia uma nova página. Bem mais organizado do que apertar Enter até acontecer.
 	{key} finds and replaces text, formatting and special characters.	{key} localiza e substitui texto, formatação e caracteres especiais.
 	{key} turns the selected text into a link.	{key} transforma o texto selecionado em um link.
