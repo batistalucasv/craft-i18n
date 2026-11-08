@@ -17,6 +17,7 @@
 	(normal text)	(texto normal)
 	(not matched)	(sem correspondência)
 	(picture or object)	(imagem ou objeto)
+	*Bold* and _italic_ as real formatting	*Negrito* e _itálico_ como formatação real
 	0 or More Characters	0 ou mais caracteres
 	1. Formatting restrictions	1. Restrições de formatação
 	1.5 Line Spacing	Espaçamento de 1,5 linha
@@ -53,6 +54,7 @@
 	Accessibility Pane	Painel de acessibilidade
 	Account	Conta
 	Add >>	Adicionar >>
+	Add a period with double-space	Adicionar ponto final com espaço duplo
 	Add a Table	Adicionar uma tabela
 	Add at least one field.	Adicione pelo menos um campo.
 	Add Chart Element	Adicionar elemento ao gráfico
@@ -73,6 +75,7 @@
 	Add tab stop at:	Adicionar tabulação em:
 	Add Text	Adicionar texto
 	Add the chapter number	Adicionar o número do capítulo
+	Add to AutoCorrect	Adicionar à AutoCorreção
 	Add to Document	Adicionar ao documento
 	Add to Quick Access Toolbar	Adicionar à Barra de Ferramentas de Acesso Rápido
 	Add to Style Gallery	Adicionar à galeria de estilos
@@ -132,6 +135,9 @@
 	And	E
 	Animate the caret (it glides and fades)	Animar o ponto de inserção (desliza e esmaece)
 	Animation effects:	Efeitos de animação:
+	Annotation Reference	Referência de anotação
+	Annotation Subject	Assunto da anotação
+	Annotation Text	Texto da anotação
 	Annoying	Irritante
 	Another file	Outro arquivo
 	Any Character	Qualquer caractere
@@ -147,6 +153,7 @@
 	Apply Style	Aplicar estilo
 	Apply Styles	Aplicar estilos
 	Arabic	Arábico
+numerals	Arabic	Arábicos
 	Arch Down	Arco para baixo
 	Arch Up	Arco para cima
 	Arrange\nAll	Organizar\ntudo
@@ -168,6 +175,7 @@
 	Auto ({percent}%)	Auto ({percent}%)
 	AutoCorrect	Autocorreção
 	AutoCorrect Options	Opções de autocorreção
+	AutoCorrect Options…	Opções de AutoCorreção…
 	AutoFit	Autoajuste
 	AutoFit behavior	Comportamento de autoajuste
 	AutoFit Column by Double-Clicking	Autoajustar coluna com clique duplo
@@ -183,6 +191,8 @@
 	Automatic numbered lists	Listas numeradas automáticas
 	Automatic Table 1 (3 levels)	Tabela automática 1 (3 níveis)
 	Automatic Table 2 (2 levels)	Tabela automática 2 (2 níveis)
+	Automatically add words to list (First Letter)	Adicionar palavras à lista automaticamente (Primeira Letra)
+	Automatically add words to list (INitial CAps)	Adicionar palavras à lista automaticamente (DUas MAiúsculas)
 	Automatically hyphenate document	Hifenizar o documento automaticamente
 	Automatically Update Document Styles	Atualizar automaticamente os estilos do documento
 	Automatically update document styles	Atualizar automaticamente os estilos do documento
@@ -222,11 +232,14 @@
 	Block\nAuthors	Bloquear\nautores
 	Blue:	Azul:
 	Body Text	Corpo do texto
+	Body text in a short paragraph to show spacing.	Texto do corpo em um parágrafo curto para mostrar o espaçamento.
 	Bold choice. Ctrl+Z is right there if you need it.	Escolha ousada. O Ctrl+Z está logo ali, se precisar.
 	Book	Livro
+	Book Title	Título do livro
 	Book title	Título do livro
 	Bookmark	Indicador
 	Bookmark name:	Nome do indicador:
+	Bookmarks	Indicadores
 	Border lines	Linhas de borda
 	Border Painter	Pincel de bordas
 	Border\nPainter	Pincel\nde bordas
@@ -247,6 +260,7 @@
 	Browse in WordCraft…	Procurar no WordCraft…
 	Building Block Gallery Content Control	Controle de conteúdo da galeria de blocos de construção
 	Built-In	Internas
+	Built-in Heading styles	Estilos internos de título
 	Built-in style	Estilo integrado
 	Built-in styles can't be deleted.	Estilos integrados não podem ser excluídos.
 	Bullet Library	Biblioteca de marcadores
@@ -289,10 +303,12 @@
 	Change Structure	Alterar estrutura
 	Change to Display	Alterar para exibição
 	Change to Inline	Alterar para embutida
+	Change to:	Alterar para:
 	Change\nChart Type	Alterar tipo\nde gráfico
 	Change\nColors	Alterar\ncores
 	Changed lines:	Linhas alteradas:
 	Changes	Alterações
+	Change…	Alterar…
 	Chapter 1	Capítulo 1
 	Chapter in a book	Capítulo de livro
 	Chapters begin at:	Os capítulos começam em:
@@ -392,6 +408,7 @@
 	Content Control Properties	Propriedades do controle de conteúdo
 	Contents can't be edited	O conteúdo não pode ser editado
 	Context	Contexto
+numerals	Context	Contexto
 	Continue from previous section	Continuar da seção anterior
 	Continue without restoring	Continuar sem restaurar
 	Continuous	Contínua
@@ -408,13 +425,18 @@
 	Copy Styles	Copiar estilos
 	Copy to	Copiar para
 	Copyright Sign	Sinal de copyright
+	Corporate Author	Autor institucional
 	Correct accidental usage of cAPS LOCK key	Corrigir o uso acidental da tecla cAPS LOCK
 	Correct TWo INitial CApitals	Corrigir DUas INiciais MAiúsculas
 	Corrections	Correções
 	Couldn't download {name}: {error}	Não foi possível baixar {name}: {error}
+	Couldn't get the list of languages: {error}	Não foi possível obter a lista de idiomas: {error}
+	Couldn't install: {error}	Não foi possível instalar: {error}
 	Couldn't make WordCraft the default: {error}	Não foi possível tornar o WordCraft o aplicativo padrão: {error}
 	Couldn't open {path}: {error}	Não foi possível abrir {path}: {error}
+	Couldn't remove: {error}	Não foi possível remover: {error}
 	Couldn't save {name}, so it is still open and nothing was lost: {error}	Não foi possível salvar {name}, portanto ele continua aberto e nada foi perdido: {error}
+	Couldn't turn on downloading: {error}	Não foi possível ativar o download: {error}
 	Count by:	Intervalo:
 	Count words in text boxes and notes	Contar palavras em caixas de texto e notas
 	Courtesy Title	Pronome de tratamento
@@ -427,41 +449,114 @@
 	Create New Style	Criar novo estilo
 	Create Source	Criar fonte
 	Croatian	Croata
+	Crop on the page works on unturned pictures: set Rotation to 0° first, or use the crop boxes	O corte na página funciona em imagens não rotacionadas: defina a rotação como 0° primeiro ou use as caixas de corte
 	Cross-reference	Referência cruzada
 	Cross-reference:	Referência cruzada:
+	Current Document	Documento atual
 	Dark Blue	Azul-escuro
 	Dark Red	Vermelho-escuro
 	Dark Yellow	Amarelo-escuro
+	Default Paragraph Font	Fonte padrão do parágrafo
 	Discard the recovery copy of {name}?	Descartar a cópia de recuperação de {name}?
 	Discard…	Descartar…
+	Dock Left	Fixar à esquerda
+	Dock Right	Fixar à direita
 	East	Leste
+	Editing is blocked in Viewing mode.	A edição está bloqueada no modo de visualização.
 	Emphasis	Ênfase
+	Endnote Reference	Referência de nota de fim
+	Endnote Text	Texto da nota de fim
+	Envelope Address	Endereço do envelope
+	Envelope Return	Remetente do envelope
+	File type	Tipo de arquivo
+	Float	Flutuar
+	Folder path	Caminho da pasta
+	Footnote Reference	Referência de nota de rodapé
+	Footnote Text	Texto da nota de rodapé
+	Get the list of languages again	Obter a lista de idiomas novamente
+	Getting the list of languages…	Obtendo a lista de idiomas…
 	Gray-25%	Cinza-25%
 	Gray-50%	Cinza-50%
+numerals	Hindi	Hindi
+	Hyperlink	Hiperlink
+	Imported 1 source	1 fonte bibliográfica importada
+	Imported {n} sources	{n} fontes bibliográficas importadas
 	Insert reference to:	Inserir referência a:
+	Install	Instalar
+	Install ({size})	Instalar ({size})
+	Installed	Instalado
+	Installing turns on downloading of fonts and Language packs from GitHub.	A instalação ativa o download de fontes e pacotes de idiomas do GitHub.
+	Installing… {percent}%	Instalando… {percent}%
 	Intense Emphasis	Ênfase intensa
+	Intense Quote	Citação destacada
+	Intense Reference	Referência destacada
+	Language packs aren't available in the browser.	Os pacotes de idiomas não estão disponíveis no navegador.
+	Language packs come from a test source: {source}	Os pacotes de idiomas vêm de uma fonte de teste: {source}
+	Language packs need the font store folder, and there is none on this computer.	Os pacotes de idiomas precisam da pasta de armazenamento de fontes, e não há nenhuma neste computador.
+template	Letter	Carta
+	Licence: {licence}. Source: {source}	Licença: {licence}. Fonte: {source}
+	List Paragraph	Parágrafo de lista
 	Local recovery is unavailable or still loading.	A recuperação local está indisponível ou ainda carregando.
+	Macro name:	Nome da macro:
+	More options	Mais opções
+	Move Pane: {title}	Mover o painel: {title}
+	No items to show.	Nenhum item para exibir.
+	No new sources in that file	Nenhuma nova fonte bibliográfica nesse arquivo
 	No recovery copies.	Nenhuma cópia de recuperação.
 	No Spacing	Sem espaçamento
+	Not in Dictionary	Não consta no dicionário
 	Nothing of this type in the document.	Nenhum item deste tipo no documento.
 	Only text properties can be changed.	Apenas propriedades de texto podem ser alteradas.
+	Only you can turn on downloading: click the button yourself. Agents can install once it is on.	Somente você pode ativar o download: Clique no botão você mesmo. Os agentes poderão instalar assim que estiver ativado.
+spacing	Open	Aberto
+	Page color	Cor da página
+	Pages in the range	Páginas no intervalo
+	Pane Options	Opções do painel
 	Property names are 1–{max} characters.	Nomes de propriedade têm de 1 a {max} caracteres.
 	Property values are at most {max} bytes.	Valores de propriedade têm no máximo {max} bytes.
+	Quote	Citação
+	Record…	Gravar…
 	Recovery copy	Cópia de recuperação
 	Recovery is disabled while this document has a password.	A recuperação fica desativada enquanto este documento tiver uma senha.
+	Resize Pane	Redimensionar o painel
 	Restore opens an unsaved copy. Your original file stays unchanged.	A restauração abre uma cópia não salva. Seu arquivo original permanece inalterado.
+	Run	Executar
+	Scale to paper size	Ajustar ao tamanho do papel
+	Select a place in this document:	Selecione um local neste documento:
 	Select a property to change.	Selecione uma propriedade para alterar.
+	Set left- and first-indent with tabs and backspaces	Definir recuo esquerdo e de primeira linha com tabs e backspaces
+	Spanish (Latin America)	Espanhol (América Latina)
+	Spanish (Uruguay)	Espanhol (Uruguai)
+	Stop Recording	Parar gravação
 	Strong	Forte
 	Subtle Emphasis	Ênfase sutil
 	Subtle Reference	Referência sutil
+	Suggestions	Sugestões
+	Switch Windows	Alternar janelas
+	Switch\nWindows	Alternar\njanelas
+numerals	System	Sistema
 	Teal	Verde-azulado
 	Text properties only: Word's number, date and yes-no types aren't offered.	Somente propriedades de texto: os tipos Número, Data e Sim ou Não, não estão disponíveis.
+	Text Size	Tamanho do texto
+	The document or selection changed. Check again to continue.	O documento ou a seleção mudou. Verifique novamente para continuar.
+	The number must be a divisor of {max}.	O número deve ser um divisor de {max}.
+	The spelling and hyphenation data WordCraft uses, and their licences.	Os dados de ortografia e hifenização usados pelo WordCraft e suas licenças.
+	The spelling dictionary for {language} couldn't be read, so it isn't checked. File: {file}. Reason: {reason}	Não foi possível ler o dicionário ortográfico de {language}, portanto ele não será verificado. Arquivo: {file}. Motivo: {reason}
+	There are no macros yet. Record one to add it here.	Ainda não há macros. Grave um para adicioná-lo aqui.
 	This cannot be undone. Your original file stays unchanged.	Isso não pode ser desfeito. Seu arquivo original permanece inalterado.
 	This document has no custom properties.	Este documento não possui propriedades personalizadas.
+preview	Title	Título
+	TOC Heading	Título do sumário
 	TOC {n}	Sumário {n}
 	tOGGLE cASE	aLTERNAR mAIÚSCULAS/mINÚSCULAS
+	Top of the Document	Início do documento
+	Track\nChanges	Controlar\nalterações
+	Track\nChanges ✓	Controlar\nalterações ✓
 	Turquoise	Turquesa
+	Update check is not supported in the web browser.	A verificação de atualizações não é suportada no navegador web.
 	View and edit the document's custom properties.	Exibir e editar as propriedades personalizadas do documento.
+	Viewing	Visualização
+	{field}, record {n}	{field}, registro {n}
 	{key} starts a new page. Much tidier than pressing Enter until it happens.	{key} inicia uma nova página. Bem mais organizado do que apertar Enter até acontecer.
 	{key} finds and replaces text, formatting and special characters.	{key} localiza e substitui texto, formatação e caracteres especiais.
 	{key} turns the selected text into a link.	{key} transforma o texto selecionado em um link.
@@ -2114,19 +2209,25 @@
 	{group} settings	Configurações de {group}
 	{key}+Click to follow link	{key}+clique para seguir o link
 	{kind}, {columns} × {rows}, {size} ({paper})	{kind}, {columns} × {rows}, {size} ({paper})
+	{language} (dictionary unreadable)	{language} (dicionário ilegível)
 	{language} (no dictionary)	{language} (sem dicionário)
 	{language} is now the document's default language.	{language} agora é o idioma padrão do documento.
+	{language} proofing isn't installed.	A revisão de texto para {language} não está instalada.
 	{language}: no dictionary found	{language}: nenhum dicionário encontrado
 	{language}: WordCraft doesn't check spelling or grammar in this language yet.	{language}: o WordCraft ainda não verifica ortografia nem gramática neste idioma.
 	{language}: {file}	{language}: {file}
+	{language}: {file} (unreadable: {reason})	{language}: {file} (ilegível: {reason})
 	{names} and {n} more	{names} e mais {n}
 	{name}   {height} × {width} in	{name}   {height} × {width} pol.
 	{name}   {height} × {width} mm	{name}   {height} × {width} mm
 	{name} already exists. Choose Save again to replace it.	{name} já existe. Escolha Salvar novamente para substituí-lo.
 	{name} is protected with a password.	{name} está protegido por senha.
+	{name} options	Opções de {name}
 	{name} wasn't found.	{name} não foi encontrado.
 	{n} entries marked.	Entradas marcadas: {n}.
+	{n} KB	{n} KB
 	{n} lines	{n} linhas
+	{n} MB	{n} MB
 	{n} pt	{n} pt
 	{selected} of {words} words	Palavras: {words}; seleção: {selected}
 	{size} pt	{size} pt
