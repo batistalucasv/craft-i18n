@@ -49,6 +49,8 @@
 	Accent {n}	Ênfase {n}
 	Accept	Aceitar
 	Accept All Changes	Aceitar todas as alterações
+	Accept All Changes and Stop Tracking	Aceitar todas as alterações e parar o controle
+	Accept and Move to Next	Aceitar e ir para a próxima
 	Accept This Change	Aceitar esta alteração
 	Accessed on	Acessado em
 	Accessibility Pane	Painel de acessibilidade
@@ -146,6 +148,7 @@
 	Any Letter	Qualquer letra
 	Anyone can open this document. Encrypt it with a password to keep it private.	Qualquer pessoa pode abrir este documento. Criptografe-o com uma senha para mantê-lo privado.
 	Anyone who opens the document will need this password.	Quem abrir o documento precisará desta senha.
+	APA	APA
 	Apply as you type	Aplicar ao digitar
 	Apply Asian line-breaking rules (kinsoku)	Aplicar as regras asiáticas de quebra de linha (kinsoku)
 	Apply Character Style	Aplicar estilo de caractere
@@ -161,6 +164,7 @@ numerals	Arabic	Arábicos
 	Artistic Effects	Efeitos artísticos
 	As Recommended	Recomendada
 	As you type	Enquanto você digita
+	ASAP	O MAIS RÁPIDO POSSÍVEL
 	Asian text font:	Fonte de texto asiático:
 	Asian Typography	Tipografia asiática
 	Assistant	Assistente
@@ -173,6 +177,7 @@ numerals	Arabic	Arábicos
 	Attach…	Anexar…
 	Auto	Auto
 	Auto ({percent}%)	Auto ({percent}%)
+	Auto orientation	Orientação automática
 	AutoCorrect	Autocorreção
 	AutoCorrect Options	Opções de autocorreção
 	AutoCorrect Options…	Opções de AutoCorreção…
@@ -239,6 +244,7 @@ numerals	Arabic	Arábicos
 	Book title	Título do livro
 	Bookmark	Indicador
 	Bookmark name:	Nome do indicador:
+	Bookmark text	Texto do indicador
 	Bookmarks	Indicadores
 	Border lines	Linhas de borda
 	Border Painter	Pincel de bordas
@@ -256,6 +262,8 @@ numerals	Arabic	Arábicos
 	Break Link	Quebrar link
 	Breaks	Quebras
 	Bright Green	Verde-vivo
+	Brighter +20%	Mais claro +20%
+	Brightness, contrast and sharpness	Brilho, contraste e nitidez
 	Bring Forward	Trazer para frente
 	Browse in WordCraft…	Procurar no WordCraft…
 	Building Block Gallery Content Control	Controle de conteúdo da galeria de blocos de construção
@@ -275,6 +283,7 @@ numerals	Arabic	Arábicos
 	Capitalize first letter of sentences	Primeira letra das frases em maiúscula
 	Capitalize first letter of table cells	Primeira letra das células em maiúscula
 	Capitalize names of days	Nomes dos dias em maiúscula
+	Capitalize the first word of a sentence	Iniciar a primeira palavra da frase com maiúscula
 	Caption Numbering	Numeração de legendas
 	Caption text	Texto da legenda
 	Caption:	Legenda:
@@ -303,6 +312,15 @@ numerals	Arabic	Arábicos
 	Change Structure	Alterar estrutura
 	Change to Display	Alterar para exibição
 	Change to Inline	Alterar para embutida
+	Change to Level 1	Alterar para Nível 1
+	Change to Level 2	Alterar para Nível 2
+	Change to Level 3	Alterar para Nível 3
+	Change to Level 4	Alterar para Nível 4
+	Change to Level 5	Alterar para Nível 5
+	Change to Level 6	Alterar para Nível 6
+	Change to Level 7	Alterar para Nível 7
+	Change to Level 8	Alterar para Nível 8
+	Change to Level 9	Alterar para Nível 9
 	Change to:	Alterar para:
 	Change\nChart Type	Alterar tipo\nde gráfico
 	Change\nColors	Alterar\ncores
@@ -341,6 +359,7 @@ numerals	Arabic	Arábicos
 	Checked symbol	Símbolo marcado
 	Chevron Down	Divisa para baixo
 	Chevron Up	Divisa para cima
+	Chicago	Chicago
 	Chinese (Simplified)	Chinês (simplificado)
 	Chinese (Traditional)	Chinês (tradicional)
 	Choose a command	Escolha um comando
@@ -363,6 +382,7 @@ numerals	Arabic	Arábicos
 	Clipboard Contents	Conteúdo da área de transferência
 	Clipboard Items	Itens da área de transferência
 	Clipboard Pane	Painel da área de transferência
+	Close Document	Fechar documento
 	Close Equation	Fechar equação
 	Close Header and Footer	Fechar cabeçalho e rodapé
 	Close Outline View	Fechar estrutura de tópicos
@@ -401,6 +421,7 @@ numerals	Arabic	Arábicos
 	Compress punctuation at the start of a line	Comprimir a pontuação no início da linha
 	Conference	Conferência
 	Conference paper	Artigo de conferência
+	CONFIDENTIAL	CONFIDENCIAL
 	Confirm password:	Confirmar senha:
 	Connect Shapes	Conectar formas
 	Container Title	Título do contêiner
@@ -453,109 +474,193 @@ numerals	Context	Contexto
 	Cross-reference	Referência cruzada
 	Cross-reference:	Referência cruzada:
 	Current Document	Documento atual
+	Custom Document Properties	Propriedades personalizadas do documento
 	Dark Blue	Azul-escuro
 	Dark Red	Vermelho-escuro
 	Dark Yellow	Amarelo-escuro
+	Darker −20%	Mais escuro −20%
 	Default Paragraph Font	Fonte padrão do parágrafo
 	Discard the recovery copy of {name}?	Descartar a cópia de recuperação de {name}?
 	Discard…	Descartar…
+	DO NOT COPY	NÃO COPIAR
 	Dock Left	Fixar à esquerda
 	Dock Right	Fixar à direita
+	DRAFT	RASCUNHO
 	East	Leste
 	Editing is blocked in Viewing mode.	A edição está bloqueada no modo de visualização.
 	Emphasis	Ênfase
 	Endnote Reference	Referência de nota de fim
 	Endnote Text	Texto da nota de fim
+	Enter bookmark name:	Digite o nome do indicador:
+	Entire caption	Legenda inteira
 	Envelope Address	Endereço do envelope
 	Envelope Return	Remetente do envelope
+	Extra space	Espaço extra
 	File type	Tipo de arquivo
+	Find “{text}” in the document	Localizar “{text}” no documento
 	Float	Flutuar
 	Folder path	Caminho da pasta
 	Footnote Reference	Referência de nota de rodapé
 	Footnote Text	Texto da nota de rodapé
+	For which item:	Para qual item:
+	Frames and effects	Molduras e efeitos
+	Full Saturation 100%	Saturação máxima 100%
+	GB/T 7714	GB/T 7714
 	Get the list of languages again	Obter a lista de idiomas novamente
 	Getting the list of languages…	Obtendo a lista de idiomas…
+	GOST (name sort)	GOST (ordem por nome)
+	GOST (title sort)	GOST (ordem por título)
+	Gray 0%	Cinza 0%
 	Gray-25%	Cinza-25%
 	Gray-50%	Cinza-50%
+	Grid Table 1 Light	Tabela com grade 1 Clara
+	Grid Table 4 – Blue	Tabela com grade 4 – Azul
+	Grid Table 4 – Green	Tabela com grade 4 – Verde
+	Grid Table 4 – Orange	Tabela com grade 4 – Laranja
+	Grid Table 4 – Purple	Tabela com grade 4 – Roxo
+	Harvard (Anglia)	Harvard (Anglia)
+	Heading	Título
+	Heading text	Texto do título
 numerals	Hindi	Hindi
 	Hyperlink	Hiperlink
+	IEEE	IEEE
 	Imported 1 source	1 fonte bibliográfica importada
 	Imported {n} sources	{n} fontes bibliográficas importadas
+	Index Heading	Título do índice
+	Index {n}	Índice {n}
 	Insert reference to:	Inserir referência a:
 	Install	Instalar
 	Install ({size})	Instalar ({size})
+	Install Language Pack	Instalar pacote de idiomas
 	Installed	Instalado
 	Installing turns on downloading of fonts and Language packs from GitHub.	A instalação ativa o download de fontes e pacotes de idiomas do GitHub.
 	Installing… {percent}%	Instalando… {percent}%
 	Intense Emphasis	Ênfase intensa
 	Intense Quote	Citação destacada
 	Intense Reference	Referência destacada
+	ISO 690 (author-date)	ISO 690 (autor-data)
+	ISO 690 (numerical)	ISO 690 (numérico)
+	Journal article	Artigo de periódico
+	Language data	Dados de idioma
+	Language Packs	Pacotes de idiomas
 	Language packs aren't available in the browser.	Os pacotes de idiomas não estão disponíveis no navegador.
 	Language packs come from a test source: {source}	Os pacotes de idiomas vêm de uma fonte de teste: {source}
 	Language packs need the font store folder, and there is none on this computer.	Os pacotes de idiomas precisam da pasta de armazenamento de fontes, e não há nenhuma neste computador.
 template	Letter	Carta
+	Level 5	Nível 5
+	Level 6	Nível 6
+	Level 7	Nível 7
+	Level 8	Nível 8
+	Level 9	Nível 9
 	Licence: {licence}. Source: {source}	Licença: {licence}. Fonte: {source}
+	Line Number	Número de linha
 	List Paragraph	Parágrafo de lista
+	List Table 3 – Blue	Tabela de lista 3 – Azul
+	List Table 3 – Green	Tabela de lista 3 – Verde
+	List Table 3 – Orange	Tabela de lista 3 – Laranja
+	List Table 3 – Purple	Tabela de lista 3 – Roxo
 	Local recovery is unavailable or still loading.	A recuperação local está indisponível ou ainda carregando.
 	Macro name:	Nome da macro:
+	MLA	MLA
+	More Contrast +20%	Mais contraste +20%
 	More options	Mais opções
 	Move Pane: {title}	Mover o painel: {title}
+	Muted 50%	Atenuado 50%
 	No items to show.	Nenhum item para exibir.
 	No new sources in that file	Nenhuma nova fonte bibliográfica nesse arquivo
 	No recovery copies.	Nenhuma cópia de recuperação.
+	No Scaling	Sem dimensionamento
 	No Spacing	Sem espaçamento
+	Normal Indent	Recuo normal
+	Normal Table	Tabela normal
 	Not in Dictionary	Não consta no dicionário
 	Nothing of this type in the document.	Nenhum item deste tipo no documento.
+	Only label and number	Apenas rótulo e número
 	Only text properties can be changed.	Apenas propriedades de texto podem ser alteradas.
 	Only you can turn on downloading: click the button yourself. Agents can install once it is on.	Somente você pode ativar o download: Clique no botão você mesmo. Os agentes poderão instalar assim que estiver ativado.
 spacing	Open	Aberto
 	Page color	Cor da página
 	Pages in the range	Páginas no intervalo
 	Pane Options	Opções do painel
+	Picture border	Borda da imagem
+	Picture transparency	Transparência da imagem
+	Plain Table 1	Tabela simples 1
 	Property names are 1–{max} characters.	Nomes de propriedade têm de 1 a {max} caracteres.
 	Property values are at most {max} bytes.	Valores de propriedade têm no máximo {max} bytes.
 	Quote	Citação
+	Reading Page Color	Cor da página de leitura
 	Record…	Gravar…
+	Recover documents	Recuperar documentos
 	Recovery copy	Cópia de recuperação
 	Recovery is disabled while this document has a password.	A recuperação fica desativada enquanto este documento tiver uma senha.
+	Reference type:	Tipo de referência:
+	Reject All Changes and Stop Tracking	Rejeitar todas as alterações e parar o controle
+	Reject and Move to Next	Rejeitar e ir para a próxima
+	Remove Language Pack	Remover pacote de idiomas
+	Remove the space before the punctuation	Remover o espaço antes da pontuação
 	Resize Pane	Redimensionar o painel
 	Restore opens an unsaved copy. Your original file stays unchanged.	A restauração abre uma cópia não salva. Seu arquivo original permanece inalterado.
+	Rounded	Arredondado
 	Run	Executar
+	SAMPLE	EXEMPLO
+	Saturation and recolor	Saturação e recoloração
+	Scale Font Sizes	Dimensionar tamanhos de fonte
 	Scale to paper size	Ajustar ao tamanho do papel
 	Select a place in this document:	Selecione um local neste documento:
 	Select a property to change.	Selecione uma propriedade para alterar.
+	Separate text with	Separar texto com
+	Sepia	Sépia
 	Set left- and first-indent with tabs and backspaces	Definir recuo esquerdo e de primeira linha com tabs e backspaces
+	Simple Frame	Moldura simples
+	SIST02	SIST02
+	Soft Edge	Borda suave
 	Spanish (Latin America)	Espanhol (América Latina)
 	Spanish (Uruguay)	Espanhol (Uruguai)
 	Stop Recording	Parar gravação
 	Strong	Forte
+	Style: APA	Estilo: APA
+	Styles Pane Position	Posição do painel de estilos
 	Subtle Emphasis	Ênfase sutil
 	Subtle Reference	Referência sutil
 	Suggestions	Sugestões
 	Switch Windows	Alternar janelas
 	Switch\nWindows	Alternar\njanelas
 numerals	System	Sistema
+	Table Grid	Grade da tabela
+	Table of Figures	Tabela de Figuras
 	Teal	Verde-azulado
 	Text properties only: Word's number, date and yes-no types aren't offered.	Somente propriedades de texto: os tipos Número, Data e Sim ou Não, não estão disponíveis.
 	Text Size	Tamanho do texto
 	The document or selection changed. Check again to continue.	O documento ou a seleção mudou. Verifique novamente para continuar.
 	The number must be a divisor of {max}.	O número deve ser um divisor de {max}.
+	The spelling and grammar check is complete.	A verificação ortográfica e gramatical está concluída.
 	The spelling and hyphenation data WordCraft uses, and their licences.	Os dados de ortografia e hifenização usados pelo WordCraft e suas licenças.
 	The spelling dictionary for {language} couldn't be read, so it isn't checked. File: {file}. Reason: {reason}	Não foi possível ler o dicionário ortográfico de {language}, portanto ele não será verificado. Arquivo: {file}. Motivo: {reason}
 	There are no macros yet. Record one to add it here.	Ainda não há macros. Grave um para adicioná-lo aqui.
+	Thick Frame	Moldura espessa
+	Thin	Fina
 	This cannot be undone. Your original file stays unchanged.	Isso não pode ser desfeito. Seu arquivo original permanece inalterado.
 	This document has no custom properties.	Este documento não possui propriedades personalizadas.
 preview	Title	Título
+	TOA Heading	Título do Índice de Autoridades
 	TOC Heading	Título do sumário
 	TOC {n}	Sumário {n}
 	tOGGLE cASE	aLTERNAR mAIÚSCULAS/mINÚSCULAS
 	Top of the Document	Início do documento
 	Track\nChanges	Controlar\nalterações
 	Track\nChanges ✓	Controlar\nalterações ✓
+	Turabian	Turabian
 	Turquoise	Turquesa
+	Type a page number, or +2 / -1.	Digite um número de página ou +2 / -1.
 	Update check is not supported in the web browser.	A verificação de atualizações não é suportada no navegador web.
+	URGENT	URGENTE
 	View and edit the document's custom properties.	Exibir e editar as propriedades personalizadas do documento.
 	Viewing	Visualização
+	Viewing — view the file but make no changes	Visualização — ver o arquivo sem fazer alterações
+	Vivid 200%	Vívido 200%
+	Wait for the print job to finish submitting before closing.	Aguarde a impressão concluir antes de fechar.
+	Wildcards (regex)	Caracteres curinga (regex)
+	Word sources	Fontes do Word
 	{field}, record {n}	{field}, registro {n}
 	{key} starts a new page. Much tidier than pressing Enter until it happens.	{key} inicia uma nova página. Bem mais organizado do que apertar Enter até acontecer.
 	{key} finds and replaces text, formatting and special characters.	{key} localiza e substitui texto, formatação e caracteres especiais.
