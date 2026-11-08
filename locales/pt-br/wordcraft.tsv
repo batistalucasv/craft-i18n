@@ -50,6 +50,7 @@
 	A mail merge field	Um campo de mesclagem
 	A numbered sequence (figures, tables…)	Uma sequência numerada (figuras, tabelas…)
 	A password is required to open this document.	É necessária uma senha para abrir este documento.
+	a shape inside a drawing canvas is placed by the canvas	uma forma dentro de uma tela de desenho é posicionada pela tela
 	A table of contents	Um sumário
 	A xor B	A xor B
 	A, B, C, …	A, B, C, …
@@ -180,6 +181,7 @@
 	Anyone can open this document. Encrypt it with a password to keep it private.	Qualquer pessoa pode abrir este documento. Criptografe-o com uma senha para mantê-lo privado.
 	Anyone who opens the document will need this password.	Quem abrir o documento precisará desta senha.
 	APA	APA
+	Applies the next time WordCraft starts.	Aplica-se na próxima vez que o WordCraft for iniciado.
 	Apply as you type	Aplicar ao digitar
 	Apply Asian line-breaking rules (kinsoku)	Aplicar as regras asiáticas de quebra de linha (kinsoku)
 	Apply Character Style	Aplicar estilo de caractere
@@ -690,6 +692,7 @@ numerals	Context	Contexto
 	Discard…	Descartar…
 	Discord community	Comunidade do Discord
 	Display for Review	Exibir para revisão
+	Display server:	Servidor de exibição:
 	Display text	Texto exibido
 	Distance from text	Distância do texto
 	Distance from text:	Distância do texto:
@@ -804,6 +807,7 @@ numerals	Context	Contexto
 	Em Space	Espaço eme
 	Emboss	Em relevo
 	Emphasis	Ênfase
+	Emphasis Mark	Marca de ênfase
 	Empty Matrices	Matrizes vazias
 	En Dash	Meia-risca
 	En Space	Espaço ene
@@ -928,6 +932,7 @@ numerals	Context	Contexto
 	First row of data contains column headers	A primeira linha de dados contém cabeçalhos de coluna
 	Fix Position on Page	Fixar posição na página
 	Fixed Column Width	Largura de coluna fixa
+	Flat OpenDocument Text (*.fodt)	Texto OpenDocument plano (*.fodt)
 	Float	Flutuar
 	Floor	Piso
 	Folder path	Caminho da pasta
@@ -1104,6 +1109,7 @@ numerals	Hindi	Hindi
 	IEEE	IEEE
 	If…Then…Else	Se…Então…Senão
 	If…Then…Else…	Se…Então…Senão…
+	Ignore Once	Ignorar uma vez
 	Ignore punctuation characters	Ignorar sinais de pontuação
 	Ignore web and file addresses	Ignorar endereços da Web e de arquivos
 	Ignore white-space characters	Ignorar espaços em branco
@@ -1219,6 +1225,7 @@ numerals	Hindi	Hindi
 	Intersection with Limits	Interseção com limites
 	Intersection with Lower Limit	Interseção com limite inferior
 	Intersection with Subscript-Superscript Limits	Interseção com limites em subscrito e sobrescrito
+	Inverse	Invertido
 	Inverse Cosecant Function	Função cossecante inversa
 	Inverse Cosine Function	Função cosseno inverso
 	Inverse Cotangent Function	Função cotangente inversa
@@ -1244,6 +1251,7 @@ numerals	Hindi	Hindi
 	Issue	Número
 	It looks like you're writing a letter. Want an envelope for it, or a letter template to start from?	Parece que você está escrevendo uma carta. Quer um envelope para ela ou um modelo de carta para começar?
 	Italy	Itália
+	Item Color	Cor do item
 	Its dictionary couldn't be read: {reason}	Não foi possível ler o dicionário dele: {reason}
 	Jamaica	Jamaica
 	Join the ArtCraft community on Discord	Junte-se à comunidade ArtCraft no Discord
@@ -1272,6 +1280,7 @@ numerals	Hindi	Hindi
 	Labels	Etiquetas
 	Language data	Dados de idioma
 	Language Packs	Pacotes de idiomas
+	Language packs aren't available in the browser	Pacotes de idiomas não estão disponíveis no navegador
 	Language packs aren't available in the browser.	Os pacotes de idiomas não estão disponíveis no navegador.
 	Language packs come from a test source: {source}	Os pacotes de idiomas vêm de uma fonte de teste: {source}
 	Language packs need the font store folder, and there is none on this computer.	Os pacotes de idiomas precisam da pasta de armazenamento de fontes, e não há nenhuma neste computador.
@@ -1375,6 +1384,7 @@ template	Letter	Carta
 	Linked style (paragraph and character)	Estilo vinculado (parágrafo e caractere)
 	Links and References	Links e referências
 	Link…	Link…
+	Linux display server	Servidor de exibição Linux
 	List Definition	Definição da lista
 	List entries	Itens da lista
 	List Paragraph	Parágrafo de lista
@@ -1457,6 +1467,7 @@ template	Letter	Carta
 	Mirror indents	Recuos espelhados
 	Mirror margins	Margens espelho
 	Mirrored	Espelhada
+	Missing Fonts	Fontes ausentes
 	MIT OR Apache-2.0. Copyright (c) 2026 ArtCraft Team and the WordCraft contributors.	MIT OR Apache-2.0. Copyright (c) 2026 ArtCraft Team e os colaboradores do WordCraft.
 	MLA	MLA
 	mm	mm
@@ -1681,6 +1692,7 @@ spacing	Open	Aberto
 	Open a document first	Abra um documento primeiro
 	Open a file with WordCraft's own browser when the system file dialog doesn't appear.	Abra um arquivo com o navegador próprio do WordCraft quando a caixa de diálogo de arquivos do sistema não aparecer.
 	OpenDocument Text (*.odt)	Texto OpenDocument (*.odt)
+	OpenDocument Text Template (*.ott)	Modelo de texto OpenDocument (*.ott)
 	Opening print dialog…	Abrindo a caixa de diálogo de impressão…
 	Opens .docx, .doc, .rtf and .odt files and Word templates with WordCraft from now on.	A partir de agora, arquivos .docx, .doc, .rtf e .odt e modelos do Word abrem no WordCraft.
 	Opens Settings › Default apps, where you choose WordCraft for .docx and the other document types.	Abre Configurações › Aplicativos padrão, onde você escolhe o WordCraft para .docx e os outros tipos de documento.
@@ -2091,6 +2103,7 @@ spacing	Open	Aberto
 	select a SmartArt graphic first	selecione primeiro um elemento gráfico SmartArt
 	select a text box first	selecione primeiro uma caixa de texto
 	select a text box linked to another first	selecione primeiro uma caixa de texto vinculada a outra
+	Select Canvas Member	Selecionar item da tela
 	Select Cell	Selecionar célula
 	Select Column	Selecionar coluna
 	Select Heading and Content	Selecionar título e conteúdo
@@ -2144,9 +2157,11 @@ spacing	Open	Aberto
 	Set Numbering Value	Definir valor da numeração
 	Set Paragraph Formatting	Definir formatação de parágrafo
 	Set Proofing Language…	Definir idioma de revisão…
+	Set the colors in the Text Pane to use custom colors.	Defina as cores no painel de texto para usar cores personalizadas.
 	Setting:	Tipo:
 	Shading	Sombreamento
 	Shadow, glow and soft edges	Sombra, brilho e bordas suaves
+	Shape color	Cor da forma
 	Shape Effects	Efeitos de forma
 	Shape Fill	Preenchimento da forma
 	Shape Format	Formato da forma
@@ -2202,6 +2217,7 @@ spacing	Open	Aberto
 	Show/Hide ¶ ({key}) shows the spaces, tabs and breaks hiding in your text.	Mostrar/ocultar ¶ ({key}) mostra os espaços, tabulações e quebras escondidos no seu texto.
 	Show\nComments	Mostrar\ncomentários
 	Showing the first {count} items.	Mostrando os primeiros {count} itens.
+	Shown in substitute fonts. Click for details.	Exibido em fontes substitutas. Clique para ver detalhes.
 	Shows a tree: each item below the item it belongs to.	Mostra uma árvore: cada item abaixo do item ao qual pertence.
 	Shows items around a central idea: the first item is the centre.	Mostra itens ao redor de uma ideia central: o primeiro item é o centro.
 	Shows items of equal weight as blocks in rows.	Mostra itens de mesmo peso como blocos em linhas.
@@ -2313,6 +2329,8 @@ spacing	Open	Aberto
 	Start-up	Inicialização
 	State	Estado
 	Statement   5.50" × 8.50"	Statement   5,50" × 8,50"
+	Status bar	Barra de status
+	Status bar count:	Contagem da barra de status:
 	Still there? I can hear you thinking.	Ainda está aí? Dá para ouvir você pensando.
 	Stop Protection	Parar proteção
 	Stop Reading	Parar leitura
@@ -2708,6 +2726,7 @@ preview	Title	Título
 	x bar	x barra
 	Year	Ano
 	Yields	Produz
+	You can also right-click the count in the status bar to change it.	Você também pode clicar com o botão direito na contagem na barra de status para alterá-la.
 	You haven't saved in a while, and AutoSave is off. Save now?	Faz tempo que você não salva, e o salvamento automático está desativado. Salvar agora?
 	You started a list. Press Enter twice to end it, or Backspace at the start of an item to turn it back into text.	Você começou uma lista. Pressione Enter duas vezes para encerrá-la, ou Backspace no início de um item para transformá-lo de novo em texto.
 	Your changes will be lost if you don't save them.	Suas alterações serão perdidas se você não salvá-las.
@@ -2728,6 +2747,7 @@ preview	Title	Título
 	{count} of {total} pages will print	{count} de {total} páginas serão impressas
 	{count} of {total} recipients will be merged.	{count} de {total} destinatários serão mesclados.
 	{field}, record {n}	{field}, registro {n}
+	{font} isn't installed on this computer, so its text is shown in {shown}. Line breaks and page count can differ from where the document was made. If you have the font file, add it with Add Font… at the end of this list.	{font} não está instalada neste computador, portanto seu texto é exibido em {shown}. As quebras de linha e a contagem de páginas podem ser diferentes de onde o documento foi criado. Se você tiver o arquivo da fonte, adicione-o com Adicionar fonte… no final desta lista.
 	{group} settings	Configurações de {group}
 	{key} checks the spelling and grammar of the whole document.	{key} verifica a ortografia e a gramática do documento inteiro.
 	{key} counts your words, characters and paragraphs.	{key} conta suas palavras, caracteres e parágrafos.
